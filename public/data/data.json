@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "cover": "images/cover/motohikohamase-technodrome.jpg",
+    "releaseType": "Album",
+    "artist": [
+      { "name": "濱瀬元彦" },
+      { "sortName": "Hamase, Motohiko" }
+    ],
+    "release": "Technodrome",
+    "labelInfo": [
+      { "catalogNumber": "28CD-NO19", "label": "Newsic" },
+      { "catalogNumber": "28CD-NO19", "label": "Wacoal Art Center" },
+      { "catalogNumber": "WRWTFWW035", "label": "We Release Whatever The Fuck We Want Records" }
+    ],
+    "releaseDate": "1993",
+    "country": "JP",
+    "genre": "Electronic, Experimental, Trance, Ambient, Minimalist",
+    "description": "Gros côté Fourth World Music, interessant dans cette manière d'être de la musique très japonaise sans pourtant faire ni image d'épinal, ni carte postale, ni musique traditionnelle. Vraiment cool.",
+    "highlights": {
+      "trackname": ["Invisible City","Technodrome"]
+    },
+    "link": "",
+    "isFavorite": "",
+    "status": [
+      { "isDl": "false" },
+      { "isBought": "true" }
+    ],
+    "publicationDate": "21/08/20",
+    "isModified": "true",
+    "modified": [
+      { "modificationDate": "25/08/20" }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "",
+    "cover": "",
+    "details": [
+      { "releaseType" : "" },
+      { "artist" : "" },
+      { "release" : "" },
+      { "label" : "" },
+      { "catNum" : "" },
+      { "releaseDate" : "" },
+      { "country" : "" },
+      { "genre" : "" }
+    ],
+    "description" : "",
+    "highlights": {
+      "trackname" : ["","",""]
+    },
+    "link": "",
+    "isFavorite": "",
+    "status": [
+      { "isDl": "" },
+      { "isBought": "" }
+    ],
+    "itemInfos": [
+      { "date": "" },
+      {
+        "isModified": "",
+        "date": ""
+      }
+    ]
+  }
+]
